@@ -1,7 +1,7 @@
 # Twitter-Archive-Wrangling
 Wrangling and visualizing insights based on tweet data generated from the @dog_rates (WeRateDogs) twitter account.
 
-# Summary
+# Analysis
 
 Although the graphs are quite busy, we can see that there is a marked decrease in the neural network’s confidence levels after each prediction. We can see that in ‘p1_conf’ there are quite a few instances where the neural networkis 100% confident that its prediction is a dog with the mean of the distribution at ~ 60%. For each consecutive prediction that confidence level deteriorates to a maximum of ~ 48% for ‘p2_conf’ and ~27% for ‘p3_conf’.
 
